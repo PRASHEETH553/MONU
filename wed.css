@@ -302,8 +302,6 @@ img{
     position: absolute;
 }
 
-
-
 .button5{
     text-align: center;
     justify-content: center;
@@ -311,8 +309,6 @@ img{
     margin-top: 4550px;
     margin-left: 200px;
     position: absolute;
-
-    
    
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
