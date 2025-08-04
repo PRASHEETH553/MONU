@@ -30,7 +30,7 @@ header{
     border:1px solid rgba(240, 237, 237, 0.18);
     box-shadow: 0 8px 32px 0 rgb(0, 4, 255);
 }
-.navbar{
+.aa{
     
     display: flex;
     justify-content: space-between; /* Space between logo and nav links */
@@ -48,11 +48,6 @@ header{
 
       
     
-}
-.aa{
-    padding-left: 10px;
-    padding-top: 10px;
-}
 
 
 .i2{
@@ -546,3 +541,4 @@ footer{
     margin-top: 30px;
 }
     
+
