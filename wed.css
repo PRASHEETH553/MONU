@@ -296,9 +296,7 @@ img{
     font-size: large;
     text-align: center;
     justify-content: center;
-    top: 290px;
-    margin-top: 5470px;
-    margin-left: 300px;
+    
     color: silver;
     position: absolute;
 }
@@ -541,6 +539,7 @@ footer{
     margin-top: 30px;
 }
     
+
 
 
 
